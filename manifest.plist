@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.7.216:8100/ios/hex3d-april-latest.ipa</string>
+					<string>http://192.168.7.216:8100/april-ios/hex3d-april-latest.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
